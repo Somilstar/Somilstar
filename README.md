@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Frontend Projects
 - 📫 How to reach me... Somilarora55@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Life is boring
+- ⚡ Fun fact: ... Please ignore my username
 
 <!---
 Somilstar/Somilstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
