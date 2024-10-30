@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi, I’m @Somilstar<br>👀 I’m interested in Coding<br>🌱 I’m currently learning ... React<br>💞️ I’m looking to collaborate on ... Frontend Projects<br>📫 How to reach me... Somilarora55@gmail.com<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... Please ignore my username
+👋 Hi, I’m @Somilstar
+👀 I’m interested in Coding, especially in Full Stack Development and Database Design
+🌱 I’m currently learning React Native and enhancing my skills in React through various projects
+💼 I’m working on projects like a full-stack e-commerce app (MERN stack) and exploring ideas for a trades service app
+💞️ I’m looking to collaborate on Frontend and Full Stack Projects
+📫 How to reach me... Somilarora55@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: Please ignore my username—my real name’s Somil!
 
 
 ## 🌐 Socials:
