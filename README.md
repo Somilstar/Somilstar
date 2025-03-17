@@ -12,7 +12,7 @@
 <br />
 😄 Pronouns: He/Him
 <br />
-⚡ Fun fact: Please ignore my username—my real name’s Somil!
+⚡ Fun fact: Please ignore my username
 <br />
 
 
